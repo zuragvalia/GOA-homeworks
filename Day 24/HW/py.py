@@ -1,0 +1,5 @@
+my_list = [10, 20, 30, 40, 50, 60, 70, 80, 90]
+
+removed_element = my_list.pop(5)
+print( removed_element)
+print( my_list)
