@@ -1,0 +1,1 @@
+print("hello my name is zura my surname is gvalia im 12 my hobbi is dance and goa and i live in geeorgia")
